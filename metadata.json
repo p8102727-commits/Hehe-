@@ -1,0 +1,6 @@
+{
+  "name": "Minimalist Word Counter",
+  "description": "A premium, distraction-free writing companion providing detailed writing statistics while maintaining an elegant minimalist experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
